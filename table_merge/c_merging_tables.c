@@ -1,6 +1,6 @@
 /* Professor Knowles, 
  * this program models a set of table merge operations in a database using 
- * trees (disjoint sets) that implement 
+ * trees of disjoint sets that implement 
  * path compression and the union by rank heuristic. It was an assignment
  * for week 3 of my current Data Structures and Algorithms course.
  
